@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="keywords" content="Minecraft, Servers, Minecraft server, pandacraft, thisrealpanda, pandacraft.co, nocteroul, programming, self-made website, panda" />
+    <meta name="author" content="Joshua.C" />
+    <meta name="description" content="Welcome to Pandacraft.Co! Find the latest information about the server here!" />
+    <meta charset="utf-8" />
+    <meta name="viewport" contnet="width-device-width, initial-scale=1" />
+    <!--Including Libs-->
+    <link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
+
+     
+    <style>
+        html,body{
+            background: #ffffff;
+        }
+    </style>
+
+    <title>PandaCraft - Home</title>
+</head>
+<body>
+    <!--Navigation bar-->
+    <div class="navbar navbar-inverse navbar-static-top">
+        <!--Start Container For Nav-->
+        <div class="container">
+            <div class="navbar-header">
+            <a class="navbar-brand" href="#"><img src="images/backbone/icon-header.png" /></a>
+
+        </div>
+            <div>
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">HOME&nbsp;<span class="glyphicon glyphicon-home"></span></a></li>
+                    <li><a href="about.html">ABOUT&nbsp; <span class="glyphicon glyphicon-th-large"></span></a></li>
+                    <li><a href="#">SHOP&nbsp;<span class="glyphicon glyphicon-tag"></span></a></li>
+                    <li><a href="#">CONTACT&nbsp;<span class="glyphicon glyphicon-pencil"></span></a></li>
+                    <li><a href="media.html">MEDIA&nbsp;<span class="glyphicon glyphicon-globe"></span></a></li>
+                    <li><a href="vote.html">VOTE&nbsp;<span class="glyphicon glyphicon-thumbs-up"></span></a></li>
+                </ul>
+
+            </div>
+            </div>
+        <!--End Of Nav-->
+        </div>
+    <!--Div Container-->
+    <div class="container">
+        <div class="jumbotron">
+            <center>
+                <h1><b>MC.PANDACRAFT.CO</b></h1>
+                
+                <h4>24/7 | Plots | Skyblock | Factions | Friendly Staff | Dedicated Server</h4>
+                <h3> <div class="label label-info">Made By ThisRealPanda</div></h3>
+
+            </center>
+        </div>
+        <hr />
+        <br />
+        <center>
+            <font color="#3563F0" size="6" font="arial"><b>Updates And News</b></font>
+        </center>
+        <br />
+        <br />
+        <br />
+        <!--Update logs-->
+
+        <h3>
+            <b>New Website.</b>&nbsp;<small>6/21/15</small>
+        </h3>
+        <br />
+        <div class="well">
+            <font size="4">
+                Welcome to our new website! Our last website was kind of ugly, so I [ThisRealPanda] decided to code a new website for my minecraft server! There might be some bugs and glitches due to the fact that I self-made this website. Thank you for stopping by
+                and please give me your feedback! Share this site with your friends, and be sure to check it out every now and then for important <b>updates</b> pertaining to the server!<br />
+                <br />
+                <center><b>About the site</b></center><br />
+                <center>
+                    This site was made purely with HTML, PHP, CSS, and Javascript/JQuery. I used bootstrap in order to get the CSS files. <br />
+                    Here you can download bootstrap<br /><a href="http://getbootstrap.com">GetBootstrap</a>
+                </center>
+            </font>
+        </div>
+        
+
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</body>
+</html>
